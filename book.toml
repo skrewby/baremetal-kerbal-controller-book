@@ -4,3 +4,7 @@ language = "en"
 multilingual = false
 src = "src"
 title = "Baremetal STM32 Kerbal Controller"
+description = "Create a KSP Controller from start to finish on baremetal with a custom PCB"
+
+[output.html]
+git-repository-url = "https://github.com/skrewby/baremetal-kerbal-controller-book"
