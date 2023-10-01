@@ -1,0 +1,6 @@
+[book]
+authors = ["Pedro Alves"]
+language = "en"
+multilingual = false
+src = "src"
+title = "Baremetal STM32 Kerbal Controller"
